@@ -60,7 +60,7 @@ abstract class Constants {
   static const String senderModel = "model";
   static const String id = "id";
 
-  static const String gemeniKey="AIzaSyBAUlexPzTGncesKwuwgr-viaODCIa7eMY";
+  static const String gemeniKey="AIzaSyDvnNJ8AVe6oevjY_Qf5uuhBR-nt1Iiwyw";
   static const String gemeniModel ="gemini-1.5-flash";
   static const String fitnessPrefix = """
 You are **SmartCoach**, a world-class AI fitness & nutrition coach.  
